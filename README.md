@@ -7,9 +7,14 @@ Dean Jung Min Kim
 # Introduction :
 # Purpose of Project
 # Hypothesis:
-# Data Source :
+# Data Source:
+Kaggle
+Data.gov
+Public APIs
+Awesome-APIs List
+Medium APIs List
 # Timeframe:
-# Questions and Data:
+# Questions and Dadata.world
 # Modeling and calculations:
 # Monte-Carlo Simualtion:
 # Data Visualization
